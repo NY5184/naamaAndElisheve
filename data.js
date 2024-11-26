@@ -58,6 +58,13 @@ const peoples=[
         price:50,
         writer:"Ann"
         
+    },
+    {
+        id:99,
+        name:"Po",
+        price:50,
+        writer:"Ann"
+        
     }
 ];
 module.exports= {products}
